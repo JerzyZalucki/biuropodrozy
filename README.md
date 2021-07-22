@@ -1,4 +1,2 @@
-
-Projekt biuropodrozy - główne założenie projektu, pobieranie informacji z bazy danych i wyświetlanie ich na stronie, wstawianie danych do bazy przez stronę. Dynamiczny serwis internetowy stworzony w oparciu o: HTML5, CSS3, PHP oraz bazę danych mySQL.
-
+Travel agency project - the main assumption of the project, retrieving information from the database and displaying it on the page, inserting data into the database through the page. A dynamic website based on: HTML5, CSS3, PHP and mySQL database.
 
